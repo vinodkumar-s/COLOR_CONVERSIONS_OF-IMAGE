@@ -174,7 +174,8 @@ cv2.destroyAllWindows()
 ```
 
 ### OUTPUT:
-![Alt text](image-6.png)
+![Alt text](image-12.png)
+![Alt text](image-13.png)
 
 
 ### vii) HSV to RGB and BGR
@@ -220,7 +221,7 @@ cv2.destroyAllWindows()
 
 ### OUTPUT:
 
-![Alt text](image-8.png)
+![Alt text](image-11.png)
 
 
 
